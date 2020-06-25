@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://media.istockphoto.com/vectors/whiteboard-background-frame-eraser-whiteboard-color-marker-and-vector-id840440646?k=6&m=840440646&s=170667a&w=0&h=nGIUt1aljQmeh2-JGpONmXVjcsmnZfVUrJ6PVtzrUEM=");
+  background-position: center center;
+}
